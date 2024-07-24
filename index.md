@@ -1,6 +1,4 @@
-title: Women in Systems Oncology
-date: 2024-07-24
-layout: post
+## Women in Systems Oncology
 
 I had the privilege of attending the Symposium on Women in Systems Oncology on July 19-20, 2024, organized by IBAB in collaboration with the Param Hansa Center for Computational Oncology at IISC, Bangalore. The event was a remarkable convergence of pioneering women leaders in cancer research, showcasing their groundbreaking work and inspiring dedication.
 
